@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Build output (regenerate with: python3 build-standalone.py)
+signal-radio-standalone.html
+*.zip
+
+# Local backups
+backup/
+
+# Local Claude Code settings
+.claude/settings.local.json
